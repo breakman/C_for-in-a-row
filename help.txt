@@ -1,0 +1,7 @@
+a - 1 player 왼쪽
+d - 1 player 오른쪽
+s - 1 player 놓기
+
+j - 2 player 왼쪽
+k - 2 player 놓기
+l - 2 player 오른쪽
